@@ -13,7 +13,7 @@ body {
   line-height: 1.6;
 }
 body.fullscreen-image-background {
-  background-image: url('../img/sliders/slider3.png?1393983498');
+  background-image: url('../img/background1.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -100,11 +100,11 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 5px;
   border-bottom: 2px solid rgba(0, 0, 0, 0);
   font-size: 12px;
-  color: #646464;
+  color: #5EC36E;
   font-weight: 700;
 }
 .navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
-  border-bottom: 2px solid #646464;
+  border-bottom: 2px solid #5EC36E;
   padding-bottom: 0;
   background-color: transparent;
 }
@@ -204,27 +204,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-info {
-  background-color: #00aeef;
-  border-color: #00aeef;
+  background-color: #5EC36E;
+  border-color: #5EC36E;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active {
-  background-color: #00aeef;
-  border-color: #009bd5;
+  background-color: #5EC36E;
+  border-color: #79D172;
 }
 
 .btn-primary {
-  background-color: #ffae3f;
-  border-color: #ffae3f;
+  background-color: #5EC36E;
+;
+  border-color: #5EC36E;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
-  background-color: #ffae3f;
-  border-color: #ffa325;
+  background-color: #5EC36E;
+  border-color: #79D172;
 }
 
 .btn-primary.disabled,
 .btn-primary[disabled] {
   background-color: #ffc472;
-  border-color: #ffae3f;
+  border-color: #79D172;
 }
 .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled:active, .btn-primary.disabled.active,
 .btn-primary[disabled]:hover,
@@ -239,10 +240,10 @@ h1, h2, h3, h4, h5, h6 {
 /* LINKS
 /* --------------------- */
 a {
-  color: #ffae3f;
+  color: #46D183;
 }
 a:hover, a:focus {
-  color: #ffc472;
+  color: #27D674;
   text-decoration: none;
 }
 
@@ -270,7 +271,7 @@ a:hover, a:focus {
 }
 .section-heading h2 {
   font-size: 3em;
-  color: #ffae3f;
+  color: #3B833E;
 }
 .section-heading p {
   font-size: 1.5em;
@@ -7458,7 +7459,7 @@ img.mfp-img {
   position: absolute;
   top: 0;
   font-size: 5em;
-  color: #ffae3f;
+  color: #46D183;
 }
 .service-item .service-text {
   margin-left: 100px;
@@ -7880,7 +7881,7 @@ img.mfp-img {
   padding: 0 5px;
   line-height: 1.6;
   color: #fff;
-  background-color: #07BB15;
+  background-color: #46D183;
 }
 .team-member strong {
   display: block;
